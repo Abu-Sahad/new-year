@@ -286,3 +286,9 @@ footer {
     font-size: 20px;
     color: #FFFFFF;
 }
+
+.footer-icon-are {
+    display: flex;
+    gap: 17px;
+    margin-bottom: 140px;
+}
